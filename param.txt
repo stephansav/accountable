@@ -1,0 +1,3 @@
+Il s'agit d'un fichier de paramètres.
+
+C'est un fichier super cool!

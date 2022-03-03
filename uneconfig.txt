@@ -1,0 +1,5 @@
+Il s'agit d'une configuration très cool!
+
+On peut en ajouter d'autres.
+
+Je rajoute une ligne.
